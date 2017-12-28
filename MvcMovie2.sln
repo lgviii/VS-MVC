@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie2", "MvcMovie2\MvcMovie2.csproj", "{A8210F63-24C0-4CEA-89E7-7BF153C0AE43}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{2B3EBADB-2118-4AA8-A2A6-4FE2CA5C59D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8210F63-24C0-4CEA-89E7-7BF153C0AE43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8210F63-24C0-4CEA-89E7-7BF153C0AE43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8210F63-24C0-4CEA-89E7-7BF153C0AE43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8210F63-24C0-4CEA-89E7-7BF153C0AE43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B3EBADB-2118-4AA8-A2A6-4FE2CA5C59D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B3EBADB-2118-4AA8-A2A6-4FE2CA5C59D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B3EBADB-2118-4AA8-A2A6-4FE2CA5C59D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B3EBADB-2118-4AA8-A2A6-4FE2CA5C59D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3C26E5F-F5B4-4F68-A00F-A25F08CE488D}
+	EndGlobalSection
+EndGlobal
